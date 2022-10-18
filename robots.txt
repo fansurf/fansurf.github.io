@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://fansurf.github.io/sitemapx.xml
